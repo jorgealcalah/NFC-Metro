@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "903729658746",
+    "project_id": "nfc-metro",
+    "storage_bucket": "nfc-metro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903729658746:android:a94f9d9e2761e1ec6234c3",
+        "android_client_info": {
+          "package_name": "ccm.rfid.nfc_metro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903729658746-nhueuma8l5es3mkalgrh6s4lqnbe5q8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ccm.rfid.nfc_metro",
+            "certificate_hash": "f5ba5c55593aae99d9af9562943c998a4a3e3510"
+          }
+        },
+        {
+          "client_id": "903729658746-ajr3dpgbsc1u31n82hr8vmbcnp96hjv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNYrIox0RxzD4KS8Q3JwXa5dArGt5yO_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903729658746-ajr3dpgbsc1u31n82hr8vmbcnp96hjv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NFC-Metro</string>
+    <string name="ready_to_write">Listo para escribir a un Bloque del tag MIFARE!</string>
+    <string name="ready_to_write_instructions">Acerque su dispositivo Android a un tag MIFARE para
+    escribir al Bloque seleccionado con la información introducida.</string>
+    <string name="ready_to_read">Listo para leer un bloque del tag Mifare!</string>
+    <string name="ready_to_read_instructions">Acerque su dispositivo Android a un tag MIFARE para leer
+    la información del Bloque seleccionado.</string>
+    <string name="insufficient_credit">Credito insuficiente</string>
+    <string name="write_successful">"Escritura a bloque EXITOSA."</string>
+    <string name="wrong_password">Contraseña incorrecta</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_register">Tarjeta no registrada</string>
+    <string name="already_registered">Tarjeta registrada</string>
+    <string name="password_insufficient_lenght">Se requiere 6 characters para la contraseña</string>
+    <string name="repassword_failed">Las contraseña no coinciden</string>
+</resources>
